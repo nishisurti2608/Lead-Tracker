@@ -18,30 +18,30 @@ This project is Chrome Extension to save Active tab URLs
 
 ## Topics covered in Module-2
 
-1 script tag
-2 variables
-3 numbers
-4 strings
-5 console.log()
-6 functions
-7 The DOM
-8 getElementByld()
-9 innerText
-10 textContent
-11 arrays
-12 objects booleans
-13 if else statements
-14 comparison operators
-15 logical operators
-16 for loops
-17 The Math object
-18 return statements
-19 const
-20 addEventListener
-21 innerHTML
-22 input.value
-23 function parameters
-24 template strings
-25 localStorage
-26 The JSON object
-27 objects in arrays
+1. script tag 
+2. variables 
+3. numbers 
+4. strings 
+5. console.log() 
+6. functions 
+7. The DOM 
+8. getElementByld() 
+10. textContent 
+9. innerText 
+11. arrays 
+12. objects booleans 
+13. if else statements 
+14. comparison operators 
+15. logical operators 
+16. for loops 
+17. The Math object 
+18. return statements 
+19. const 
+20. addEventListener 
+21. innerHTML 
+22. input.value 
+23. function parameters 
+24. template strings 
+25. localStorage 
+26. The JSON object 
+27. objects in arrays
